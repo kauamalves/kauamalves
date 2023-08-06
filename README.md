@@ -8,5 +8,3 @@ Here are some ideas to get you started:
 - 🔭 Eu atualmente estou trabalhando como freelancer.
 - 🌱 Estou aprofundando meus conhecimentos em NextJS
 -->
-
-![snake gif](https://github.com/kauamalves/kauamalves/blob/output/github-contribution-grid-snake.svg)
