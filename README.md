@@ -1,13 +1,6 @@
 Olá, meu nome é Kauã :D
 
-<div align="center">
-  <div align="center">
-  <a href="https://github.com/kauamalves">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauamalves&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    </div>
-</br>
 
-</div>
 
 </br>
  <div align="center">
