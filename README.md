@@ -1,5 +1,11 @@
 Olá, meu nome é Kauã :D
+<div align="center">
 
+</br>
+  <div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauamalves&layout=compact&langs_count=7&theme=dark"/>
+</div>
+</div>
 
 
 </br>
