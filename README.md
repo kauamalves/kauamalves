@@ -19,7 +19,6 @@ Olá, meu nome é Kauã :D
   <img align="center" alt="PHP" height="40" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 </div>
  </div>
-</br>
 
 <div style="text-align: center;">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=161b22&height=120&section=footer"/>
