@@ -20,3 +20,7 @@ Olá, meu nome é Kauã :D
 </div>
  </div>
 </br>
+
+<div style="text-align: center;">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=161b22&height=120&section=footer"/>
+</div>
