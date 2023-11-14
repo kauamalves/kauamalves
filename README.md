@@ -1,4 +1,7 @@
-Olá, meu nome é Kauã :D
+<div style="text-align: center;">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=161b22" />
+</div>
+
 <div align="center">
 
 </br>
