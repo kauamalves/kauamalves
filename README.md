@@ -9,9 +9,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kauamalves&layout=compact&hide_border=true&title_color=ecf2f8&text_color=FFFFFF&bg_color=0d1117" />
 </div>
 
-  <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauamalves&layout=compact&langs_count=7&theme=dark"/>
-</div>
 </div>
 
 </br>
