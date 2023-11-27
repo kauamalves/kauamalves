@@ -26,7 +26,7 @@
  </br>
 
 <p align="left">
-  💌 Entre em contato para garantir sua aplicação rodando o quanto antes: ⤵️
+  💌 Entre em contato e garanta sua aplicação rodando o mais <b>rápido</b> possível: ⤵️
 </p>
 
 <p align="left">
