@@ -31,13 +31,13 @@
 
 <p align="left">
 
-  <a href="https://www.instagram.com/justkmzs/" alt="Instagram">
+  <a href="https://www.instagram.com/justkmzs/" alt="Instagram" target='_blank'>
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-round&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/justkmzs/"/></a>
 
-  <a href="https://www.linkedin.com/in/kauamalves/" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/kauamalves/" alt="LinkedIn" target='_blank'>
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kauamalves/" /></a>
 
-  <a href="mailto:kauademeloalves.kk@gmail.com" alt="Gmail">
+  <a href="mailto:kauademeloalves.kk@gmail.com" alt="Gmail" target='_blank'>
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-round&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:kauademeloalves.kk@gmail.com" /></a>
 </p>
 
