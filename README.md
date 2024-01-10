@@ -39,21 +39,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
-<p align="left">
-  💌 Entre em contato e garanta sua aplicação rodando o mais <b>rápido</b> possível: ⤵️
-</p>
-
-<p align="left">
-
-  <a href="https://www.instagram.com/justkmzs/" target="_blank" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-round&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/justkmzs/"/></a>
-
-  <a href="https://www.linkedin.com/in/kauamalves/" target="_blank" alt="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kauamalves/" /></a>
-
-  <a href="mailto:kauademeloalves.kk@gmail.com" target="_blank" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-round&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:kauademeloalves.kk@gmail.com" /></a>
-</p>
+<div> 
+<a href="https://www.instagram.com/justkmzs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href = "mailto:kauademeloalves.kk@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/kauamalves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+</div>&nbsp;&nbsp;
 
 
 <div style="text-align: center;">
