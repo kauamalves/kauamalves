@@ -18,7 +18,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Php](https://img.shields.io/badge/Php-00B7FF?style=for-the-badge&logo=php&logoColor=black)&nbsp;
 ![Laravel](https://img.shields.io/badge/Laravel-FD2D22?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-FD2D22?style=for-the-badge&logo=mysql&logoColor=black)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-017791?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
