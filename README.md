@@ -49,10 +49,6 @@
 <a href="https://www.linkedin.com/in/kauamalves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
 
-<div style="text-align: center;">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=161b22&height=120&section=footer"/>
-</div>
-
 ## Statistics 
 
 <p align="center">
