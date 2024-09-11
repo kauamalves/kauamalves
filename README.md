@@ -54,7 +54,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=161b22&height=120&section=footer"/>
 </div>
 
-##Statistics 
+## Statistics 
 <hr>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kauamalves&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
