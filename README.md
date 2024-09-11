@@ -51,6 +51,8 @@
 
 ## Statistics 
 
+<hr>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kauamalves&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
 </p>
