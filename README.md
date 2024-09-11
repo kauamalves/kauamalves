@@ -16,40 +16,52 @@
 <a href="https://stackoverflow.com/users/27289857/kaeme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22138939" height="30" width="40" /></a>
 <a href="https://instagram.com/kaua.alvssx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kauã alves" height="30" width="40" /></a>
 </p>
-</div>
+<hr>
+#Languages and Tools 
+<hr>
+<div>
 
- </br>
+### Languages:
+| Php | JS |
+|----------|----------|----------|-----|-----|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Python"  alt="Python" width="60" height="60"/> |   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/> | 
 
-## My Skills
+| React | Laravel | Bootstrap | Tailwind |
+|----------|----------|----------|----------|----------|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="Jquery"  alt="Jquery" width="60" height="60"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React"  alt="React" width="60" height="60"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="65" height="65"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="60" height="60"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="60" height="60"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="70" height="70"/>| 
 
-### Main Stack:
+### Database:
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![Php](https://img.shields.io/badge/Php-00B7FF?style=for-the-badge&logo=php&logoColor=black)&nbsp;
-![Laravel](https://img.shields.io/badge/Laravel-FD2D22?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-017791?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+| MySql |
+|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mySql" alt="mySql" width="60" height="60"/> | 
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+### Environments, Testing, Other:
 
-### Workstation Tools:
+| Git | Insomnia |  Composer |
+|----------|----------|----------|----------|----------|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/insomnia/insomnia-original.svg" title="Insomnia" alt="Insomnia" width="55" height="55"/>|<img src="https://banner2.cleanpng.com/20190501/xvt/kisspng-computer-icons-virtualbox-portable-network-graphic-virtualbox-icon-of-line-style-available-in-svg-5cca247f73f9e3.6112721115567514874751.jpg" title="Insomnia" alt="Postman" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" title="Composer" alt="Composer" width="60" height="60"/>|
+### OS:
 
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![Windows](https://img.shields.io/badge/Windows-E95420?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
+| Linux | Ubuntu |
+|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="60" height="60"/> |
 
-### Contacts:
+<hr>
+Statistics 
+<hr>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kauamalves&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+</p>
 
-<div> 
-<a href="https://www.instagram.com/kaua.alvssx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href = "mailto:kaua.devv@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/kauamalves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-</div>&nbsp;&nbsp;
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kauamalves&show_icons=true&locale=en&theme=vision-friendly-dark" alt="GitHub Stats" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kauamalves&theme=vision-friendly-dark" alt="GitHub Streak" />
+</p>
 
-<div style="text-align: center;">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=161b22&height=120&section=footer"/>
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kauamalves&color=green" alt="Profile View" />
+</p>
