@@ -53,3 +53,22 @@
 <div style="text-align: center;">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=161b22&height=120&section=footer"/>
 </div>
+
+<hr>
+Statistics 
+<hr>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kauamalves&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kauamalves&show_icons=true&locale=en&theme=vision-friendly-dark" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kauamalves&theme=vision-friendly-dark" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kauamalves&color=green" alt="Profile View" />
+</p>
