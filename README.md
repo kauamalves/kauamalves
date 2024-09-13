@@ -34,7 +34,7 @@
     - Linux
 
 #### 🚀 My Skills :
-<img src="https://img.icons8.com/?size=512&id=qcPZJD5DNDto&format=png" width="42px"><img src="https://img.icons8.com/?size=120&id=UG5EO81XNkPs&format=png" width="42px"><img src="https://img.icons8.com/?size=512&id=JRnxU7ZWP4mi&format=png" width="42px"><img src="https://img.icons8.com/?size=256&id=bp24DwGXJDyT&format=png" width="42px"><img src="https://img.icons8.com/?size=512&id=20906&format=png" width="42px">
+<img src="https://img.icons8.com/?size=512&id=qcPZJD5DNDto&format=png" width="42px"><img src="https://img.icons8.com/?size=120&id=UG5EO81XNkPs&format=png" width="42px"><img src="https://img.icons8.com/?size=512&id=JRnxU7ZWP4mi&format=png" width="42px"><img src="https://img.icons8.com/?size=512&id=20906&format=png" width="42px">
 
 ### Contacts:
 
