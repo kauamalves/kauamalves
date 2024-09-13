@@ -27,6 +27,7 @@
     - PHP | Laravel
     - React
     - SQL | NoSQL
+    - Insomnia | Postman
     - Solid Principles | Clean Code
     - Design Patterns
     - Architectures
