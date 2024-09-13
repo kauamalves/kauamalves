@@ -18,27 +18,27 @@
 </p>
 </div>
 
- </br>
 
-## My Skills
+- 💻 Information security enthusiast
+- 📜 Basic English
+- 💬 Ask me about:
+    - PHP | Laravel
+    - React
+    - SQL | NoSQL
+    - Solid Principles | Clean Code
+    - Design Patterns
+    - Architectures
+        - MVC
+        - Layered (N Camadas)
+    - GIT
+    - Linux
 
-### Main Stack:
+#### 🚀 My Skills :
+<img src="https://img.icons8.com/?size=512&id=qcPZJD5DNDto&format=png" width="42px"><img src="https://img.icons8.com/?size=120&id=UG5EO81XNkPs&format=png" width="42px"><img src="https://img.icons8.com/fluency/256/javascript.png"  width="42px"><img src="https://img.icons8.com/fluency/256/node-js.png"  width="42px"><img src="https://img.icons8.com/?size=512&id=22813&format=png" width="42px"><img src="https://img.icons8.com/?size=256&id=j9DnICNnlhGk&format=png" width="42px"><img src="https://img.icons8.com/?size=512&id=JRnxU7ZWP4mi&format=png" width="42px"><img src="https://img.icons8.com/?size=256&id=bp24DwGXJDyT&format=png" width="42px"><img src="https://img.icons8.com/?size=512&id=20906&format=png" width="42px">
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![Php](https://img.shields.io/badge/Php-00B7FF?style=for-the-badge&logo=php&logoColor=black)&nbsp;
-![Laravel](https://img.shields.io/badge/Laravel-FD2D22?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-017791?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+#### 💻 I'm currently learning :
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-### Workstation Tools:
-
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![Windows](https://img.shields.io/badge/Windows-E95420?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
+<img src="https://img.icons8.com/external-others-amoghdesign/256/external-vue-js-soleicons-fill-vol-1-others-amoghdesign.png"  width="42px"><img src="https://img.icons8.com/color/256/mongodb.png"  width="42px">
 
 ### Contacts:
 
