@@ -9,6 +9,7 @@
 
 - 🌱 I’m currently learning **Laravel**
 
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,6 +19,7 @@
 </p>
 </div>
 
+<hr>
 
 - 💻 Information security enthusiast
 - 📜 Basic English
