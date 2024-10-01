@@ -7,7 +7,7 @@
 <h3 align="center">Brazilian full-stack developer</h3>
 
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **React**
 
 <hr>
 
@@ -24,7 +24,7 @@
 - 💻 Information security enthusiast
 - 📜 Intermediary English
 - 💬 Ask me about:
-    - Vue JS
+    - React
     - PHP | Laravel
     - SQL | NoSQL
     - Insomnia
