@@ -7,7 +7,7 @@
 <h3 align="center">Brazilian full-stack developer</h3>
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** and **Laravel**
 
 <hr>
 
